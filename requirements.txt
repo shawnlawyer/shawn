@@ -1,4 +1,15 @@
+To github.com:shawnlawyer/shawn.git
+   7d7af62..78f52fd  main -> main
+(env) Shawns-MacBook-Pro:shawn shawnlawyer$ pip freeze
+certifi==2021.10.8
+chardet==4.0.0
 click==7.1.2
-scapy==2.4.5
+Flask==2.0.2
+idna==2.10
+itsdangerous==2.0.1
+Jinja2==3.0.2
+MarkupSafe==2.0.1
 requests==2.25.1
-
+scapy==2.4.5to
+urllib3==1.26.7
+Werkzeug==2.0.2

@@ -16,7 +16,8 @@ Options:
 
 ## Installing the scanner tool locally
 ``` 
-# Requires Python 3  
+# Requires Python 3
+pip install --no-cache-dir -r requirements.txt  
 pip install -e .
 ```
 
