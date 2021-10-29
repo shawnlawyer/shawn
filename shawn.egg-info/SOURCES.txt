@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+shawn.egg-info/PKG-INFO
+shawn.egg-info/SOURCES.txt
+shawn.egg-info/dependency_links.txt
+shawn.egg-info/entry_points.txt
+shawn.egg-info/top_level.txt
+src/Scanner.py
+src/__init__.py
+src/__main__.py
+src/consts.py

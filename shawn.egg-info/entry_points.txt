@@ -1,0 +1,3 @@
+[console_scripts]
+shawn = src.__main__:main
+
