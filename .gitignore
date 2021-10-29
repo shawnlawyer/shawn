@@ -1,2 +1,4 @@
 .ideas
 shawn.egg-info
+__pycache__
+env
